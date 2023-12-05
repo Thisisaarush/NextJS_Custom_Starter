@@ -9,6 +9,7 @@
 
 ## Built-in Features
 
+- End-to-End Type Safe
 - NextJS
 - Typescript
 - Zod
