@@ -1,0 +1,28 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": false,
+  "editor.detectIndentation": false,
+  "editor.wordWrap": "on",
+  "editor.renderWhitespace": "all",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.cursorBlinking": "solid",
+  "editor.minimap.enabled": false,
+  "files.trimTrailingWhitespace": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "node_modules": true
+  },
+  "typescript.preferences.quoteStyle": "double",
+  "prettier.singleQuote": false,
+  "prettier.trailingComma": "none",
+  "prettier.printWidth": 100,
+  "eslint.enable": true,
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "html.format.wrapAttributes": "force-aligned",
+  "html.format.preserveNewLines": true,
+  "explorer.confirmDelete": true
+}
