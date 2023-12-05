@@ -20,7 +20,7 @@
 - Clerk Auth
 - Shadcn UI
 - Axios
-- React Query
+- Tanstack/React Query
 - Trpc
 - Jest
 - React Testing Library
