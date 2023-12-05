@@ -29,7 +29,7 @@
 - Clone the Repo.
 - Create .env file at root of the project (see file .env.example).
 - `pnpm i` to install dependencies.
-- `pnpm dev` to start server at <http://localhost:3000>.
+- `pnpm dev` to start server at `localhost:3000`
 - You should See the `Clerk` Auth Screen for Sign-in.
 - After Sign-in, You will be redirected to homepage of the app.
 - Let's Go!
