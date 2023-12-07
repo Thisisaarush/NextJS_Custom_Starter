@@ -21,14 +21,16 @@
 - Shadcn UI
 - Axios
 - Tanstack/React Query
-- Trpc
+- TRPC
 - Jest
 - React Testing Library
+- Type Safe Environment Variables
+- Light / Dark Mode
 
 ## How to Start
 
 - Clone the Repo.
-- Create .env file at root of the project (see file .env.example).
+- Create `.env` file at root of the project (see file .env.example).
 - `pnpm i` to install dependencies.
 - `pnpm dev` to start server at `localhost:3000`
 - You should See the `Clerk` Auth Screen for Sign-in.
