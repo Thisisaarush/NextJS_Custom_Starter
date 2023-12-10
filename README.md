@@ -1,6 +1,6 @@
 # ⭐ NextJS Full-Stack Custom Starter
 
-![Homepage](./public/next.svg)
+![nextjs](./public/next.svg)
 
 ## Prerequisites
 
