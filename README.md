@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-- NodeJS >= 20
+- NodeJS >= 18
 - pnpm >= 8
 
 ## Built-in Features
