@@ -1,4 +1,4 @@
-# ⭐ NextJS Full-Stack Custom Starter
+# ⭐ NextJS Custom Starter
 
 ![nextjs](./public/next.svg)
 
